@@ -1,0 +1,20 @@
+{
+  "name": "campus",
+  "version": "1.0.0",
+  "description": "RESTful API for creating, updating, retrieving or deleting users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTfull",
+    "API"
+  ],
+  "author": "Umme Farhana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3"
+  }
+}
